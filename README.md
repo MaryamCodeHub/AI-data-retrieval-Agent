@@ -1,4 +1,4 @@
-# KnowledgeScribe: AI Document Generator for Google Colab
+# KnowledgeScribe: AI Document Generator
 
 KnowledgeScribe is a Python-based document generation tool that leverages Google's Gemini AI to create comprehensive research documents on any topic.
 
